@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Siddharth Eswaramoorthy
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning designing high scalable systems
 - 📫 You can reach me on https://www.linkedin.com/in/siddhartheswaramoorthy/
